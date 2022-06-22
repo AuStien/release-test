@@ -2,9 +2,11 @@
 
 ## TBD
 
+## v0.1.2
+
 - add question in notes
 
-## v0.1.2
+## v0.1.1
 
 - add notes
 
